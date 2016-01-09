@@ -16,3 +16,11 @@ do one file at a time
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 when you want to try different versions. branches keep the versions separate
+
+How do the diagrams help you visualize the branch structure?
+
+you can see the connections between versions
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+the changes from both versions are combined.
