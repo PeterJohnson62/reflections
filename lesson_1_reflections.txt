@@ -1,0 +1,28 @@
+Identifying changes in source code between versions is hard.
+Doing it by computer is easier.
+
+Dropbox, Google Docs & Wikipedia have version control.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+Pro: you can make commits at logical points when changes are implemented.
+Cons; you can make too many or too few commits.
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+Committing multiple files makes sense to ensure that the state of the entire bunch of code is recorded at the time the programmer thought was a good time to save.
+
+Committing single files save only the changes that were made. This saves space.
+
+How can you use the commands git log and git diff to view the history of files?
+
+log shows the times and notes for each commit.
+diff shows the differences between commits.
+
+How might using version control make you more confident to make changes that could break something?
+
+You can easily find the changes with commit.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+finish the lesson
